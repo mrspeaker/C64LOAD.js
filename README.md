@@ -2,6 +2,8 @@
 
 Golly gosh Ajax spinners ("throbbers" if you must use the correct term) are boring. They just spin. Not my Ajax throbber. It rocks.
 
+In action: http://www.mrspeaker.net/2010/10/20/c64-ajax-loader/
+
 No longer do you have to bore your users to tears waiting for your Ajax requests to complete - you can keep them thoroughly entertained with this historically accurate representation of the loading screen of the Commodore 64. Ah, how your users will smile with memories of waiting for America's Cup Challenge to load from cassette, but always stopping after 30 minutes, and even if it did ever load, being a really crappy game.
 
 If that's the kind of emotional User Experience you want your apps to evoke, read on!
